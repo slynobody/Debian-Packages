@@ -1,5 +1,5 @@
 # Some packages currently missing in the Debian Repos. 
-* Free for suggestions for other currently missing things.
+* Free for suggestions on other currently missing packages.
 
 # Disclaimer
 1. Use at your own risk!
