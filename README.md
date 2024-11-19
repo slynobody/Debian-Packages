@@ -2,7 +2,7 @@
 * Free for suggestions on other currently missing packages.
 
 look around, currently:
-* Mesa 25 + 24.3
+* Mesa 25 (latest git, as .tar)
 * Gamescope 3.15.14 (incl. currently non-merged polaris-gpu-fix)
 * Breeze Enhanced (plasma 6, qt6)
 * Klassy (plasma 6, qt6)
