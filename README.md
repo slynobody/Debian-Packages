@@ -9,6 +9,7 @@ look around, currently:
 * Klassy (plasma 6.2, qt6)
 * Kvantum (plasma 6.2, qt6)
 * Kiview
+* Firejail 0.9.72-3 (latest git)
 
 # Disclaimer
 1. Use at your own risk!
