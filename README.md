@@ -2,15 +2,15 @@
 * Free for suggestions on other currently missing packages.
 
 look around, currently:
-* Mesa 25.1 (latest git, as .tar)
-* Scx-Schedulers (latest)
-* Gamescope 3.16 (incl. currently non-merged polaris-gpu-fix)
-* Breeze Enhanced (plasma 6.2 + 6.31, qt6)
-* Klassy (plasma 6.2 + 6.31, qt6)
-* Kvantum (plasma 6.2 + 6.31, qt6)
+* Breeze Enhanced (plasma 6.32+)
+* Klassy (plasma 6.32+)
+* Kvantum (plasma 6.32+)
 * Kiview
 * Firejail 0.9.72-3 (latest git)
-
+* Gamescope 3.16.2 (incl. polaris-gpu-fix)
+* Mesa 25.1 (latest git)
+* Scx-Schedulers (latest)
+  
 # Disclaimer
 1. Use at your own risk!
 2. This is for educational and research purposes only!
