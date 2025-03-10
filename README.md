@@ -5,10 +5,11 @@ look around, currently:
 * Breeze Enhanced (plasma 6.32+)
 * Klassy (plasma 6.32+)
 * Kvantum (plasma 6.32+)
-* Kiview
-* Firejail 0.9.72-3 (latest git)
+* Mangoapp / Mangohud 8.1
 * Gamescope 3.16.2 (incl. polaris-gpu-fix)
 * Mesa 25.1 (latest git)
+* Firejail 0.9.72-3 (latest git)
+* Kiview
 * Scx-Schedulers (latest)
   
 # Disclaimer
