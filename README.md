@@ -3,8 +3,8 @@
 * Firejail 0.9.72-3 (latest git)
 * Scx-Schedulers (latest)
 * Mesa 25.2 (latest git)
-* Mangoapp / Mangohud 8.1
-* Gamescope 3.16.2 (incl. polaris-gpu-fix)
+* Mangoapp / Mangohud 8.1_latest_git
+* Gamescope 3.16.12_latest_git
 * kodi-inputstream-adaptive 21.5.13
 * Kiview
 
