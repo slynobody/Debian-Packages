@@ -1,11 +1,11 @@
 # Some packages currently missing in the Debian Repos. 
 
-* Firejail 0.9.72-3 (latest git)
-* Scx-Schedulers (latest)
-* Mesa 25.2 (latest git)
-* Mangoapp / Mangohud 8.1_latest_git
-* Gamescope 3.16.12_latest_git
+* Mesa 25.3 (latest git)
+* Mangoapp / Mangohud 8.1
 * kodi-inputstream-adaptive 21.5.13
+* Firejail 0.9.72-3 
+* Scx-Schedulers 
+* Gamescope 3.16.12
 * Kiview
 
 Decorations (plasma 6.32+)
