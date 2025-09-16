@@ -1,11 +1,9 @@
 # Some packages currently missing in the Debian Repos. 
 
-* Mesa 25.3 (latest git)
-* Mangoapp / Mangohud 8.1
+(latest git)
+* Mesa 25.3
 * kodi-inputstream-adaptive 21.5.13
-* Firejail 0.9.72-3 
 * Scx-Schedulers 
-* Gamescope 3.16.12
 * Kiview
 
 Decorations (plasma 6.32+)
@@ -13,6 +11,11 @@ Decorations (plasma 6.32+)
 * Klassy
 * Sierra Breeze Enhanced 
 * Kvantum
+
+legacy (will recompile soon)
+* Mangoapp / Mangohud 8.1
+* Gamescope 3.16.12
+* Firejail 0.9.72-3
   
 # Disclaimer
 1. Use at your own risk!
