@@ -6,7 +6,7 @@
 * Scx-Schedulers 
 * Kiview
 
-Decorations (plasma 6.32+)
+Decorations (plasma 6.4/6.5+)
 * Breeze Enhanced
 * Klassy
 * Sierra Breeze Enhanced 
