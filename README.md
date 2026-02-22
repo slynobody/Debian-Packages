@@ -1,12 +1,12 @@
 # Some packages currently missing in the Debian Repos. 
 
 (latest git)
-* Mesa 25.3
+* Mesa 26.1
 * kodi-inputstream-adaptive 21.5.13
 * Scx-Schedulers 
 * Kiview
 
-Decorations (plasma 6.4/6.5+)
+Decorations (plasma 6.5+)
 * Breeze Enhanced
 * Klassy
 * Sierra Breeze Enhanced 
