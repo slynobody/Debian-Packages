@@ -3,19 +3,19 @@
 (latest git)
 * Mesa 26.2
 * Wallpaper-Engine_Plasma
-* kwin-effects-better-blur-dx
+* kwin-effects-better-blur-dx+
 * FancyTasksNG
 * YetAnotherMagicLamp
 
-Decorations (plasma 6.5+)
+Decorations (plasma 6.7+)
 * Breeze Enhanced
 * Klassy
 * Sierra Breeze Enhanced 
 * Kvantum
 
-legacy (will recompile soon)
+legacy (recompiled soon)
 * Mangoapp / Mangohud 
-* Gamescop
+* Gamescope
 * Firejail
 * kodi-inputstream-adaptive 
 * Scx-Schedulers 
