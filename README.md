@@ -1,7 +1,7 @@
 # Some packages currently missing in the Debian Repos. 
 
 (latest git)
-* Mesa 26.2
+* Mesa 26.3
 * Wallpaper-Engine_Plasma
 * kwin-effects-better-blur-dx+
 * FancyTasksNG
