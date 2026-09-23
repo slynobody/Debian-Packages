@@ -9,13 +9,13 @@
 
 Decorations (plasma 6.7+)
 * Breeze Enhanced
-* Klassy
 * Sierra Breeze Enhanced 
 * Kvantum
 
-legacy (recompiled soon)
+debs: updated to latest git (soon)
 * Mangoapp / Mangohud 
 * Gamescope
+* Klassy
 * Firejail
 * kodi-inputstream-adaptive 
 * Scx-Schedulers 
