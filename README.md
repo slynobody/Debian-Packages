@@ -1,11 +1,12 @@
 # Some packages currently missing in the Debian Repos. 
 
 (latest git)
-* Mesa 26.3
+* Mesa 27
 * Wallpaper-Engine_Plasma
 * kwin-effects-better-blur-dx+
 * FancyTasksNG
 * YetAnotherMagicLamp
+* Kiview 
 
 Decorations (plasma 6.7+)
 * Breeze Enhanced
@@ -19,7 +20,6 @@ debs: updated to latest git (soon)
 * Firejail
 * kodi-inputstream-adaptive 
 * Scx-Schedulers 
-* Kiview 
   
 # Disclaimer
 1. Use at your own risk!
